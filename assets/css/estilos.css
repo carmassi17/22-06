@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+input,i{
+    margin-bottom: 10px;
+}
+
+input,i{
+    margin-bottom: 10px;
+}
+.container{
+    background-color: rgb(85, 55, 160);
+}
+
+.text-center{
+    font-size: 30px;
+    color: burlywood;
+}
+.text-center{
+    color: rgb(0, 0, 0);
+}
+textarea{
+    width: 100px;
+    height: 100px;
+    resize: none;
+}
+.logoff{
+    position:static;
+    right: 0;
+    cursor: pointer;
+    color: white;
+}
