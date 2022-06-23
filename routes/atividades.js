@@ -97,7 +97,7 @@ module.exports = (app) => {
                     tipo:dados.tipo,
                     disciplina:dados.disciplina,
                     entrega:dados.entrega,
-                    instrucoes:dados.instrucoes
+                    instrucoes:dados.orientacoes
                 }
             )
             //voltar para atividades
